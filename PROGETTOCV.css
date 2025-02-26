@@ -1,0 +1,26 @@
+#Titoli{
+  color: blue;
+}
+
+#Paragrafo{
+  font-weight: bold;
+  font-style: italic;
+}
+
+.totti{
+  background-color: lightgrey;
+  text-align: center;
+}
+
+hr{
+  border-color: orange
+  }
+
+main{
+  padding: 8px;
+}
+
+.Ref{
+  text-decoration: underline;
+  font-size: 18px
+}
